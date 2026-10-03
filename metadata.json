@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath CG",
+  "description": "AI-Powered Career, Course, Examination & Scholarship Guidance Platform with personalized roadmap generation and interactive career counseling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
